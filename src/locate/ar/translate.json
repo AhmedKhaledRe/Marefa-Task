@@ -1,0 +1,13 @@
+{
+    "translations": {
+        "EN": "انجليزي",
+        "AR": "عربي",
+        "Name": "الاسم",
+        "Status": "الحالة",
+        "Major": "القسم",
+        "admission male": "قبول للذكور",
+        "Applicants": "المتقدمون",
+        "Dates": "التواريخ",
+        "Sign Out": "خروج"
+        }
+}
